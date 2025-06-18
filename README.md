@@ -22,7 +22,10 @@ Separados por trabajo práctico, estos son los links para cada tp
 - [Proyecto 5](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto5)
 
 ## Trabajo práctico N°3
-- 
+- [Proyecto 1 - LCD display](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto1-LCD-display)
+- [Proyecto 2 - Code integration](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto2-Code-integration)
+- [Proyecto 5 - Interactive menu statechart](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto5-Interactive-menu-statechart)
+- [Proyecto 6 - Interactive menu](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto6-Interactive-menu)
 
 ## Trabajo práctico N°4
 - 
