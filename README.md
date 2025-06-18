@@ -10,6 +10,7 @@ Separados por trabajo práctico, estos son los links para cada tp
 
 ## Trabajo práctico N°1
 - [Proyecto 1 - My First Statechart](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP1-Proyecto1-My-First-Statechart)
+- [Proyecto 2 - Sensor Statechar](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP1-Proyecto2-Sensor-Statechart)
 
 ## Trabajo práctico N°2
 - 
