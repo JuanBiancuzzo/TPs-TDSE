@@ -9,7 +9,7 @@ Separados por trabajo práctico, estos son los links para cada tp
 - [Proyecto 5](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP0-Proyecto5)
 
 ## Trabajo práctico N°1
-- 
+- [Proyecto 1 - My First Statechart](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP1-Proyecto1-My-First-Statechart)
 
 ## Trabajo práctico N°2
 - 
