@@ -1,0 +1,3 @@
+Ahora va modificándose el período, mientras que el duty cycle se mantiene constante.
+
+En el led, como se mantiene el duty cycle, la intensidad se mantiene constante. No llegamos a apreciar que el led parpadea pero si se aumenta el período aún más, tal vez se podría llegar a visualizar.

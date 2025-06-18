@@ -1,0 +1,5 @@
+El período de la señal es constante y por las mediciones podemos decir que esta alrededor de 1ms. El duty cycle si vas cambiando con el tiempo, de 0% a 100%. Donde entedemos por duty cycle como la proporcion del tiempo en alto con respecto al período.
+
+Esta medición se realizó con la punta del osciloscopio acoplada en continua, ya que si se acoplace en alterna como el valor medio se va modificando (a la par del duty cycle), la señal se mueve de arriba a abajo.
+
+Se observa que va cambiando la intensidad del led a partir del cambio del duty cycle.

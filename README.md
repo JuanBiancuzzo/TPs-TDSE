@@ -1,31 +1,20 @@
-# Trabajos prácticos de Taller de sistemas embebidos (TA134)
-La intención de este repositorio es agrupar todos los tps que se hicieron a lo largo de la materia en un solo repositorio, donde cada rama es uno de los tps, o una de sus secciones.
+# PWM
+1) Forkear el repositorio y abrir el proyecto en STM32CubeIDE
+2) Analizar en el IOC las configuraciones del TIM3 y del RCC, sin modificarlas
+3) En PA6 colocar un cable Dupont hembra macho y dejarlo al aire. En GND colocar un cable Dupont macho macho y dejarlo al aire.
+3) Enchufar la placa NUCLEO-F103RB
 
-Separados por trabajo práctico, estos son los links para cada tp
+## Test 1
+4) Volver al código y configurar el primer test, verificando el #define TEST_NUMBER (línea 18 de app.c), es decir que diga #define TEST_NUMBER TEST_1
+5) Compilar y debuggear.
+6) Colocar la punta del osciloscopio entre PA6 y GND y analizar la forma de onda mostrada. ¿Cuál es el período de la señal? ¿Se modifica? ¿Cómo se define duty cycle? Se modifica?
+7) Colocar un led entre PA6 y GND (no olvidar R de polarización) y observar la intensidad del brillo.
 
-## Trabajo práctico N°0
-- [Proyecto 1](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP0-Proyecto1) 
-- [Proyecto 2](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP0-Proyecto2)
-- [Proyecto 4](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP0-Proyecto4)
-- [Proyecto 5](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP0-Proyecto5)
+## Test 2
+8) Volver al código y configurar el segundo test, mediante la directiva #define TEST_NUMBER TEST_2
+9) Compilar y debuggear.
+10) Colocar la punta del osciloscopio entre PA6 y GND y analizar la forma de onda mostrada. ¿Qué ocurre con el período de la señal? ¿Qué ocurre con el duty cycle?
+11) Colocar un led entre PA6 y GND (no olvidar R de polarización) y observar la intensidad del brillo.
+12) Comparar resultados
 
-## Trabajo práctico N°1
-- [Proyecto 1 - My First Statechart](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP1-Proyecto1-My-First-Statechart)
-- [Proyecto 2 - Sensor Statechar](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP1-Proyecto2-Sensor-Statechart)
-- [Proyecto 3 - System Statechart](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP1-Proyecto3-System-Statechart)
-- [Proyecto 4 - Actuator Statechart](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP1-Proyecto4-Actuator-Statechart)
-
-## Trabajo práctico N°2
-- [Proyecto 1](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto1) 
-- [Proyecto 2](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto2)
-- [Proyecto 3](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto3)
-- [Proyecto 5](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto5)
-
-## Trabajo práctico N°3
-- [Proyecto 1 - LCD display](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto1-LCD-display)
-- [Proyecto 2 - Code integration](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto2-Code-integration)
-- [Proyecto 5 - Interactive menu statechart](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto5-Interactive-menu-statechart)
-- [Proyecto 6 - Interactive menu](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto6-Interactive-menu)
-
-## Trabajo práctico N°4
-- 
+Nota: Los comentarios deberán registrarse en los archivo pwm.txt, test_1.txt y test_2.txt, en el root de la carpeta app de su repositorio. Asimismo, en esa misma ubicación se debe incorporar todo material de soporte o argumentación, tal como capturas de pantalla de computadora, capturas de pantalla de osciloscopio, fotografías, etcétera.
