@@ -28,4 +28,6 @@ Separados por trabajo práctico, estos son los links para cada tp
 - [Proyecto 6 - Interactive menu](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP3-Proyecto6-Interactive-menu)
 
 ## Trabajo práctico N°4
-- 
+- [Proyecto 1 - ADC](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP4-Proyecto1-ADC) 
+- [Proyecto 2 - PWM](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP4-Proyecto2-PWM)
+- [Proyecto 3 - ADC-PWM](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP4-Proyecto3-ADC-PWM)
