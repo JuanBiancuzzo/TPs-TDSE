@@ -16,7 +16,10 @@ Separados por trabajo práctico, estos son los links para cada tp
 - [Proyecto 4 - Actuator Statechart](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP1-Proyecto4-Actuator-Statechart)
 
 ## Trabajo práctico N°2
-- 
+- [Proyecto 1](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto1) 
+- [Proyecto 2](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto2)
+- [Proyecto 3](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto3)
+- [Proyecto 5](https://github.com/JuanBiancuzzo/TPs-TDSE/tree/TP2-Proyecto5)
 
 ## Trabajo práctico N°3
 - 
