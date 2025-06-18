@@ -1,0 +1,3 @@
+Podemos ver que tiene una media de 2738, y una desviación estandar 0.5759
+
+Ahora utilizando los datos previos (test 1), vemos que al promediar por 16 valores tomados mejoramos la desviación disminuyéndola en un orden de magnitud. Esto gana en presición pero pierde en velocidad.

@@ -1,0 +1,5 @@
+Podemos ver que tiene una media de 2737, y una desviación estandar 2.406
+
+A diferencia del test 1 que usa polling, este utiliza interrupciones. La diferencia teorica es que al usar polling el procesador tiene que consultar constantemente si esta disponible el resultado y depenediendo de este consultar el valor. Esto no sucede en el caso del test 3, donde al estar el valor disponible se genera una interrupción, por lo que no se tiene que perder tiempo consultando la disponibilidad del valor y se puede utilizar este tiempo para realizar otra tareas. Esta diferencia de tiempo se presenta en general cuando al consultar el valor no esta disponible. 
+
+Vemos que el resultado es similar, lo que varia es lo que se mencionó previamente
